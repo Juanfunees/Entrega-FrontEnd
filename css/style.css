@@ -71,7 +71,7 @@ nav ul li a {
   align-items: center;
   text-align: center;
   padding: 20px;
-  background-color: #0079f246;
+  background-color: #05060788;
   font-size: 25px;
   text-align: justify;
   color: white;
@@ -239,7 +239,7 @@ nav ul li a {
     width: 80%;
     margin: 50px auto;
     padding: 20px;
-    background-color: #f7f7f7;
+    background-color: #05060788;
     border-radius: 15px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     animation: fadeIn 1s ease-in-out;
@@ -249,7 +249,7 @@ nav ul li a {
     font-size: 2rem;
     font-weight: bold;
     text-align: center;
-    color: #333;
+    color: #ffffff;
     margin-bottom: 20px;
     font-family: Ubuntu;
 }
@@ -258,15 +258,9 @@ nav ul li a {
     font-size: 1.1rem;
     line-height: 1.8;
     text-align: justify;
-    color: #555;
+    color: #ffffff;
     margin-bottom: 15px;
     font-family: Ubuntu;
-}
-
-.historia-contenedor:hover {
-    background-color: #e9f5ff;
-    transform: scale(1.02);
-    transition: all 0.3s ease-in-out;
 }
 
 @keyframes fadeIn {
