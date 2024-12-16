@@ -338,7 +338,7 @@ h1{
     padding: 20px;
     text-align: center;
     font-family: Pacifico;
-    font-size: 50px;
+    font-size: 80px;
 }
 
 .lasbestias{
@@ -346,4 +346,31 @@ h1{
     font-size: 20px;
     text-align: justify;
     padding: 30px;
+    width: 80%;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #05060788;
+    border-radius: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    animation: fadeIn 1s ease-in-out;
+}
+
+
+.lasbestias {
+  width: 80%;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: #05060788;
+  border-radius: 15px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  animation: fadeIn 1s ease-in-out;
+}
+
+.lasbestias p {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  text-align: justify;
+  color: #ffffff;
+  margin-bottom: 15px;
+  font-family: Ubuntu;
 }
